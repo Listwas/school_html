@@ -1,0 +1,50 @@
+table{
+    /* border: 1px dashed red; */
+    border-collapse: collapse;
+}
+
+td{
+    width: 50px;
+    height: 50px;
+    /* border: 3px dashed blue; */
+}
+
+.dark_green{
+    background-color: darkolivegreen;
+}
+
+.crimson{
+    background-color: crimson;
+}
+
+.white{
+    background-color: aliceblue;
+}
+
+.purple{
+    background-color: rgb(54, 27, 78);
+}
+
+.light_gray{
+    background-color: lightgray;
+}
+
+.dark_gray{
+    background-color: darkgray;
+}
+
+.dark_red{
+    background-color: darkred;
+}
+
+.black{
+    background-color: black;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.gray{
+    background-color: gray;
+}
