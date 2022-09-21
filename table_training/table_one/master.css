@@ -1,0 +1,34 @@
+table{
+    height: 400px;
+    width: 400px;
+    border-collapse: collapse;
+    /* border: 1px dashed red; */
+}
+td{
+    height: 100px;
+    width: 100px;
+    /* border: 2px dashed blue; */
+}
+.red{
+    background-color: red;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.black{
+    background-color: black;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
