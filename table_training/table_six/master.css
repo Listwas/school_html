@@ -1,0 +1,22 @@
+table{
+    /* border: 1px dashed red; */
+    border-collapse: collapse;
+}
+
+td{
+    width: 50px;
+    height: 50px;
+    /* border: 2px dashed blue; */
+}
+
+.red{
+    background-color: rgb(207, 45, 45);
+}
+
+.star{
+    width: 89px;
+}
+
+.big_star{
+    width: 160px;
+}
