@@ -1,0 +1,33 @@
+table{
+    /* width: 1300px;
+    height: 900px; */
+    /* border: 1px dashed red; */
+    border-collapse: collapse;
+}
+
+td{
+    width: 50px;
+    height: 50px;
+    /* border: 1px dashed blue; */
+}
+
+.white{
+    background-color: aliceblue;
+}
+
+.red{
+    background-color: red;
+}
+
+.black{
+    background-color: black;
+}
+
+.blue{
+    background-color: blue;
+}
+
+
+#border{
+    border: 2px solid black;
+}
